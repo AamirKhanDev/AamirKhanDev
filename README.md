@@ -38,7 +38,7 @@
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=HoodieB&show_icons=true&hide=stars,issues&card_width=200&theme=dark" />
+    <img src="https://github-readme-stats.vercel.app/api?username=AamirKhanDev&show_icons=true&hide=stars,issues&card_width=200&theme=dark" />
   </a>
 </div>
 
