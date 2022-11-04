@@ -74,20 +74,15 @@
 - My tendency to want to figure things out became very useful during Makers. Due to the intense nature of the course, we would often only broach certain subjects briefly but my curiosity would always drive me to continue to work into the evenings and during the weekends to ensure I thoroughly understood some of the trickier concepts.
 
 #### Emotional Intelligence / Communication
+- Having worked in many different industries during my time in Accounting & Finance I have had the priviledge to work with many different individuals. That includes people with different work ethics, different mindsets, different abilities and different communicative styles. This has enabled me to learn to adapt to nearly any situation and have empathy toward my peers or co workers during tough situations. This was further higlighted at my time at Makers Academy as I progressed through the bootcamp. There were times that I had to pair program with peers who were above and below my skill level and what assisted greatly was my ability to communicate constantly with what concepts I was comfortable with and was uncomfortable with. I also aim to listen to any criticism or concerns from my peers and support them if required and show patience with their learning and development.
 
-TO DO
+#### Team player + Leadership
+- My communication and team playing skills thrived throughout my time at Makers Bootcamp, enabling me to work well with others and providing a great dynamic to the group. While creating our Project 'Acebook', I ensured that we met the given Minimal Viable Product (MVP) and user stories by always focusing back to these, keeping the customer at the heart of the project and ensuring as a team everyone had an equal say in what tickets they wanted to tackle while creating the project.
 
-#### Team player
-
-TO DO
-
-#### Leadership
-
-TO DO
 
 ## Work Experience
 
-TO DO
+- I previously worked in the Accounting & Finance sector. More information can be found at my linkedin: https://www.linkedin.com/in/aamirkhan94/
 
 ## Education
 
