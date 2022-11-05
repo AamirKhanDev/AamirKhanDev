@@ -30,10 +30,6 @@
 * :cat: A Cat lover
 
 
-## My Introduction to Coding
-
-[TODO]
-
 <br>
 
 <div align="center">
