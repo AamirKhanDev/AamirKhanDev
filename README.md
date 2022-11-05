@@ -44,7 +44,7 @@
 | Name                         | Description       | Timeframe | Tech/tools        |
 | ---------------------------- | ----------------- | --------- | ----------------- |
 | [Acebook](https://github.com/AamirKhanDev/acebook-team-bikini-bottom) | Social media site inspired by Facebook. Users are able to sign up, log in, log out, post, comment, like, and edit their profile details | 10 days | MongoDB,  Express, React, Javascript, CSS |
-| Project2 | Insert Description here | x days | Insert tech stack here |
+| [Rock,Paper,Scissors](https://github.com/AamirKhanDev/RockPaperScissors) | Command line game to play Rock, Paper, Scissors vs an A.I | 2 days | HTML, CSS, Javascript |
 | Project3 | Insert Description here | x days | Insert tech stack here |
 | Project4 | Insert Description here | x days | Insert tech stack here |
 | Project5 | Insert Description here | x days | Insert tech stack here |
