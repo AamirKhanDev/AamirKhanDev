@@ -43,7 +43,7 @@
 
 | Name                         | Description       | Timeframe | Tech/tools        |
 | ---------------------------- | ----------------- | --------- | ----------------- |
-| 'Acebook' | Social media site inspired by Facebook. Users are able to sign up, log in, log out, post, comment, like, and edit their profile details | 10 days | MongoDB,  Express, React, Javascript, CSS |
+| [Acebook](https://github.com/AamirKhanDev/acebook-team-bikini-bottom) | Social media site inspired by Facebook. Users are able to sign up, log in, log out, post, comment, like, and edit their profile details | 10 days | MongoDB,  Express, React, Javascript, CSS |
 | Project2 | Insert Description here | x days | Insert tech stack here |
 | Project3 | Insert Description here | x days | Insert tech stack here |
 | Project4 | Insert Description here | x days | Insert tech stack here |
