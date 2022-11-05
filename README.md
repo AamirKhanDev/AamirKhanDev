@@ -21,11 +21,11 @@
 ## About me
 
 * :mortar_board: Graduated from Makers Tech Academy bootcamp in December 2022.
+* :desktop_computer: MongoDB||Express.Js||React||Node.js||Javascript||Ruby||HTML/CSS||
 * :bulb: Switched to a career in coding to actively use my creative and logical mind in an exciting and evergrowing industry.
 * :headphones: Passionate about music and pc gaming
 * :books: Passion for problem-solving and the pursuance of efficiency. I like to solve problems and get better at solving them!
 * :handshake: An excellent team-member with industry standard experience of helping and working with internal and external customers.
-* :desktop_computer: Improving coding skills and language proficiency daily
 * :basketball: Basketball enthusiast and fitness fanatic!
 * :cat: A Cat lover
 
