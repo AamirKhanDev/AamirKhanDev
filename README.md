@@ -41,13 +41,14 @@
 
 ## Projects
 
-| Name                         | Description       | Timeframe | Tech/tools        |
-| ---------------------------- | ----------------- | --------- | ----------------- |
-| [Online Portfolio](https://aamirkhandev.netlify.app/) | Website displaying my projects in a clean and slick manner | 5 days | HTML, CSS, Javascript |
-| [Rat Race](https://github.com/AamirKhanDev/rat-race-netlify) | A fun spin on the popular Snakes & Ladders game. Playable on your browser! | 10 days | HTML, CSS, Javascript (React) |
-| [Adopt a Pet](https://github.com/AamirKhanDev/adopt_a_pet) | A simple website built with React to help find pets ready for adoption in major cities | 5 days | HTML, CSS, Javascript (React) |
-| [Bank tech test](https://github.com/AamirKhanDev/bank_tech_test) | A tech test undertaken to showcase clean code and TDD that logs deposits and withdrawals from a bank account. | 2 days | Javascript |
-| [Acebook](https://github.com/AamirKhanDev/acebook-team-bikini-bottom) | Social media site inspired by Facebook. Users are able to sign up, log in, log out, post, comment, like, and edit their profile details | 10 days | MongoDB,  Express, Javascript (React) , CSS |
+| Name                         | Description       | Tech/tools        |
+| ---------------------------- | ----------------- | ----------------- |
+| [Online Portfolio](https://aamirkhandev.netlify.app/) | Website displaying my projects in a clean and slick manner | HTML, CSS, Javascript |
+| [Todo App](https://github.com/AamirKhanDev/todo_app) | A full stack to-do app. Fully supports registering, logging in, storing to-do list items, deleting to-do list items and also logging out | HTML, CSS, Javascript (React), MongoDB, Express, Node |
+| [Rat Race](https://github.com/AamirKhanDev/rat-race-netlify) | A fun spin on the popular Snakes & Ladders game. Playable on your browser! | HTML, CSS, Javascript (React) |
+| [Adopt a Pet](https://github.com/AamirKhanDev/adopt_a_pet) | A simple website built with React to help find pets ready for adoption in major cities | HTML, CSS, Javascript (React) |
+| [Bank tech test](https://github.com/AamirKhanDev/bank_tech_test) | A tech test undertaken to showcase clean code and TDD that logs deposits and withdrawals from a bank account. | Javascript |
+| [Acebook](https://github.com/AamirKhanDev/acebook-team-bikini-bottom) | Social media site inspired by Facebook. Users are able to sign up, log in, log out, post, comment, like, and edit their profile details | MongoDB,  Express, Javascript (React) , CSS, Node |
 
 
 
