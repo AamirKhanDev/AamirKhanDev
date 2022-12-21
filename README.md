@@ -99,7 +99,8 @@ _Intensive Full Stack Software Engineering Bootcamp_
 - Frameworks: React, Rails
 - Testing frameworks: RSpec, Jest
 
-
+### Coventry University (Sept 2014 - July 2017)
+_BA Accounting & Finance 2'1_
 
 ## Alternative Achievements and Hobbies
 
