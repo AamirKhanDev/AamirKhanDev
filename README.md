@@ -8,6 +8,8 @@
     <a href="https://www.codewars.com/users/HoodieB">
         <img src="https://img.shields.io/badge/CodeWars-%23AD2C27?style=for-the-badge&logo=codewars&logoColor=white" />
     </a>
+    <a href="https://github.com/AamirKhanDev/CV"><img alt="cv" title="CV" src="https://img.shields.io/badge/-PDF%20CV-brightgreen" width=70/></a>
+
   </div>
   <br>
 
