@@ -48,7 +48,7 @@
 | [Rat Race](https://github.com/AamirKhanDev/rat-race-netlify) | A fun spin on the popular Snakes & Ladders game. Playable on your browser! | HTML, CSS, Javascript (React) |
 | [Adopt a Pet](https://github.com/AamirKhanDev/adopt_a_pet) | A simple website built with React to help find pets ready for adoption in major cities | HTML, CSS, Javascript (React) |
 | [Bank tech test](https://github.com/AamirKhanDev/bank_tech_test) | A tech test undertaken to showcase clean code and TDD that logs deposits and withdrawals from a bank account. | Javascript |
-| [Acebook](https://github.com/AamirKhanDev/acebook-team-bikini-bottom) | Social media site inspired by Facebook. Users are able to sign up, log in, log out, post, comment, like, and edit their profile details | MongoDB,  Express, Javascript (React) , CSS, Node |
+| [Acebook](https://github.com/AamirKhanDev/acebook-team-bikini-bottom) | Social media site inspired by Facebook. Users are able to sign up, log in, log out, post, comment, like, and edit their profile details | HTML, CSS, Javascript (React), MongoDB, Express, Node |
 
 
 
