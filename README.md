@@ -17,9 +17,13 @@
 
     
   <br>
+  
+
 
   Thanks for visiting my GitHub!
  
+ 
+![](https://komarev.com/ghpvc/?username=aamirkhandev&color=green)
  
 
   [About Me](#About-me) | [Projects](#projects) | [Skills](#skills) | [Work Experience](#work-experience) | [Hobbies](#alternative-achievements-and-hobbies)
@@ -46,6 +50,9 @@
     <img src="https://github-readme-stats.vercel.app/api?username=AamirKhanDev&show_icons=true&hide=stars,issues&card_width=200&theme=dark" />
   </a>
 </div>
+
+
+
 
 
 ## Projects
@@ -113,4 +120,5 @@ _BA Accounting & Finance 2'1_
 - Staying active by being a gym rat and hiking across the country regularly!
 
 
-![](https://komarev.com/ghpvc/?username=aamirkhandev&brightgreen)
+
+
