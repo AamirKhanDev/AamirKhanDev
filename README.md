@@ -9,6 +9,7 @@
         <img src="https://img.shields.io/badge/CodeWars-%23AD2C27?style=for-the-badge&logo=codewars&logoColor=white" />
     </a>
     <a href="https://github.com/AamirKhanDev/CV"><img alt="cv" title="CV" src="https://img.shields.io/badge/-PDF%20CV-brightgreen" width=70/></a>
+ 
   </div>
     
    <img src="https://aamirkhandev.netlify.app/img/aamirkhan-02.jpg" height="350">
@@ -17,7 +18,7 @@
   <br>
 
   Thanks for visiting my GitHub!
-  
+ 
  
 
   [About Me](#About-me) | [Projects](#projects) | [Skills](#skills) | [Work Experience](#work-experience) | [Hobbies](#alternative-achievements-and-hobbies)
@@ -109,3 +110,6 @@ _BA Accounting & Finance 2'1_
 - Competed in England's U17 national Basketball team
 - Competitive gamer (reached top 1% of European players on multiple games, such as League of Legends, StarCraft 2, Call of Duty and Valorant)
 - Staying active by being a gym rat and hiking across the country regularly!
+
+
+![](https://komarev.com/ghpvc/?username=aamirkhandev)
