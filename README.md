@@ -1,5 +1,6 @@
+
 <div align="center">
-  <h1>Aamir Khan</h1>
+    <h1>Aamir Khan</h1>
 
   <div align="center">
     <a href="https://www.linkedin.com/in/aamirkhan94//">
@@ -112,4 +113,4 @@ _BA Accounting & Finance 2'1_
 - Staying active by being a gym rat and hiking across the country regularly!
 
 
-![](https://komarev.com/ghpvc/?username=aamirkhandev)
+![](https://komarev.com/ghpvc/?username=aamirkhandev&brightgreen)
