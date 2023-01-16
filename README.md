@@ -23,7 +23,7 @@
   Thanks for visiting my GitHub!
  
 
- 
+ ![](https://komarev.com/ghpvc/?username=aamirkhandev&color=green)
 
   [About Me](#About-me) | [Projects](#projects) | [Skills](#skills) | [Work Experience](#work-experience) | [Hobbies](#alternative-achievements-and-hobbies)
 
