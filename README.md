@@ -105,7 +105,7 @@ _Intensive Full Stack Software Engineering Bootcamp_
 - Participated in consistent pair programming and team engineering projects
 - Object Oriented Principles, Test Driven Development, Model View Controller, Domain Driven Development
 - Methodologies: Agile/XP
-- Languages: Ruby, JavaScript, SQL
+- Languages: Ruby, JavaScript, Typescript, SQL
 - Frameworks: React, Rails
 - Testing frameworks: RSpec, Jest
 
